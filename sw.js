@@ -1,5 +1,5 @@
 // Lysspor service worker: app shell offline, live data always from the network.
-const CACHE = "lysspor-v2";
+const CACHE = "lysspor-v3";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icon.svg", "icon-192.png", "icon-512.png", "icon-180.png",
   "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css", "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"];
 
