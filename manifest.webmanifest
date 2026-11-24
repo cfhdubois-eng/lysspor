@@ -1,0 +1,17 @@
+{
+  "name": "Lysspor",
+  "short_name": "Lysspor",
+  "description": "Løb, cykling og sejlads med GPS – og hvor meget dagslys du får.",
+  "lang": "da",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E1B26",
+  "theme_color": "#0E1B26",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
